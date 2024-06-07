@@ -1,4 +1,9 @@
 ### Hi there 👋 Welcome to my GitHub!
+
+[![geekrainy's github stats](https://github-readme-stats.vercel.app/api?username=Dolov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
 │Esc│   │ F1│ F2│ F3│ F4│ │ F5│ F6│ F7│ F8│ │ F9│F10│F11│F12│ │P/S│S L│P/B│  ┌┐    ┌┐    ┌┐
