@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-[![geekrainy's github stats](https://github-readme-stats.vercel.app/api?username=Dolov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Dolov's github stats](https://github-readme-stats.vercel.app/api?username=Dolov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
