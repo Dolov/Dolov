@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-👾 趣味迷宫 (贡献图)
-`<picture>`
+<picture>
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dolov/Dolov/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dolov/Dolov/output/pacman-contribution-graph-dark.svg">
