@@ -1,8 +1,14 @@
 ### Hi there 👋 Welcome to my GitHub!
 
+👾 趣味迷宫 (贡献图)
+`<picture>`
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dolov/Dolov/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dolov/Dolov/output/pacman-contribution-graph-dark.svg">
+  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/Dolov/Dolov/output/pacman-contribution-graph.svg">
+</picture>
+
 [![Dolov's github stats](https://github-readme-stats.vercel.app/api?username=Dolov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
@@ -20,6 +26,7 @@
 │ Ctrl│    │Alt │         Space         │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
+
 <!--
 **Surile/Surile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
